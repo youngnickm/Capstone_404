@@ -1,2 +1,2 @@
 # Capstone_404
-This repository contains all code related to STT.
+This branch contains all code and information related to STT.
